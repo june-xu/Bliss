@@ -1,3 +1,2 @@
-# personalcodingproject
-
-This is my PCP. 
+# ICS4U Personal Coding Project
+Project Timeline: http://bit.do/juneisrad
