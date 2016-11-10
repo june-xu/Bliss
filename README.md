@@ -1,4 +1,11 @@
-# Personal Coding Project - Bliss
-## Android app developed on Android Studio, written in Java 
-## Is an interactive app (has countdown, splash screens) that allow users to de-stress
+# Bliss - *my first project!* :EMOJICODE: @octochat:+1:
+**About**
+Is an interactive app (has countdown, splash screens) that allow users to de-stress
+
+Languages used:
+```
+* Developed on Android Studio
+* Written in Java
+```
+
 
