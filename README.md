@@ -1,11 +1,17 @@
-# Bliss - *my first project!* :EMOJICODE: @octochat:+1:
-**About**
-Is an interactive app (has countdown, splash screens) that allow users to de-stress
+# Bliss - *my first project!*:smiley:
+It is an **interactive app** that allow users to de-stress
 
-Languages used:
-```
-* Developed on Android Studio
-* Written in Java
-```
+Features?
 
+* Countdown
+* Timer
+* Splash images
+* Embedded Youtube Videos
+
+```
+Developed with Android Studio
+Written in Java
+Also created in MIT's App Inventor II
+```
+Project was a **semi-finalist** in the **Technovation** Competition
 
