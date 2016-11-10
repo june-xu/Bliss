@@ -2,7 +2,6 @@
 It is an **interactive app** that allow users to de-stress
 
 Features?
-
 * Countdown
 * Timer
 * Splash images
